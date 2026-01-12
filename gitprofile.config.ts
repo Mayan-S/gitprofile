@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Mayan-S/gitprofile', 'Mayan-S/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -33,173 +33,133 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Resume Builder',
+          title: 'Project Name',
           description:
-            'Generate an engineering resume in under 5 minutes as a TeX or PDF file',
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://raw.githubusercontent.com/Mayan-S/profile/main/images/image.png',
-          link: 'https://mayan-s.github.io/resume-builder/',
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
         },
         {
-          title: 'Spotify Stats',
+          title: 'Project Name',
           description:
-            'Display your Spotify listening data in a Spotify Wrapped style slideshow',
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://raw.githubusercontent.com/Mayan-S/profile/main/images/image_1.png',
-          link: 'https://github.com/Mayan-S/spotify-stats',
-        },
-        {
-          title: 'Document Scanner',
-          description:
-            'Uses OpenCV and Tesseract OCR to scan documents and extract text',
-          imageUrl:
-            'https://raw.githubusercontent.com/Mayan-S/profile/main/images/image_2.png',
-          link: 'https://github.com/Mayan-S/document-scanner',
-        },
-        {
-          title: 'Impossible Tic-Tac-Toe',
-          description:
-            'Choose between single-player and multi-player Tic-Tac-Toe',
-          imageUrl:
-            'https://raw.githubusercontent.com/Mayan-S/profile/main/images/image_4.png',
-          link: 'https://github.com/Mayan-S/impossible-tic-tac-toe',
-        },
-        {
-          title: 'DE1-SoC Arcade Game',
-          description:
-            'Asteroid dodging game on FPGA with VGA display, keyboard controls, and collision detection',
-          imageUrl:
-            'https://raw.githubusercontent.com/Mayan-S/profile/main/images/image_3.jpg',
-          link: 'https://github.com/Mayan-S/DE1-SoC-Arcade-Game',
-        },
-        {
-          title: 'Redesign Proposal for Chestnut Residence Building',
-          description:
-            'A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building',
-          imageUrl:
-            'https://raw.githubusercontent.com/Mayan-S/profile/main/images/image_6.png',
-          link: 'https://mayan-s.github.io/chestnut-residence-redesign/',
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
         },
       ],
     },
   },
-  seo: { 
-    title: 'Portfolio of Mayan Saravanabavan', 
-    description: 'Electrical Engineering student at University of Toronto with experience in Python, C/C++, Verilog, and embedded systems', 
-    imageURL: '' 
-  },
+  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
   social: {
-    linkedin: 'mayan-saravanabavan',
-    x: '',
-    mastodon: '',
+    linkedin: 'ariful-alam',
+    x: 'arif_szn',
+    mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: '',
+    youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: '',
-    dev: '',
-    stackoverflow: '',
+    medium: 'arifszn',
+    dev: 'arifszn',
+    stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: '',
+    website: 'https://www.arifszn.com',
     phone: '',
-    email: 'mayan.saravanabavan@mail.utoronto.ca',
+    email: '',
   },
   resume: {
-    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl:
+      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Python',
-    'C',
-    'C++',
-    'HTML',
-    'CSS',
-    'Verilog',
-    'RISC-V Assembly',
+    'PHP',
+    'Laravel',
+    'JavaScript',
+    'React.js',
+    'Node.js',
+    'Nest.js',
+    'MySQL',
+    'PostgreSQL',
     'Git',
-    'Quartus Prime',
-    'ModelSim',
-    'LTSpice',
-    'Altium Designer',
-    'KiCAD',
+    'Docker',
+    'PHPUnit',
+    'CSS',
+    'Antd',
+    'Tailwind',
   ],
   experiences: [
-    // Work Experience
     {
-      company: 'CANUE',
-      position: 'Undergraduate Research Assistant',
-      from: 'July 2025',
+      company: 'Company Name',
+      position: 'Position',
+      from: 'September 2021',
       to: 'Present',
-      companyLink: 'https://canue.ca',
+      companyLink: 'https://example.com',
     },
     {
-      company: 'University of Toronto',
-      position: 'Alumni Events Assistant',
-      from: 'May 2025',
-      to: 'June 2025',
-      companyLink: 'https://www.utoronto.ca',
-    },
-    {
-      company: 'Durham District School Board',
-      position: 'Peer Tutor',
-      from: 'September 2022',
-      to: 'July 2023',
-      companyLink: '',
-    },
-    {
-      company: 'Youth In Politics',
-      position: 'Technical Editor',
-      from: 'June 2021',
-      to: 'January 2023',
-      companyLink: '',
+      company: 'Company Name',
+      position: 'Position',
+      from: 'July 2019',
+      to: 'August 2021',
+      companyLink: 'https://example.com',
     },
   ],
   certifications: [
-    // Awards
     {
-      name: 'University of Toronto Scholar',
-      body: '',
-      year: 'September 2024',
-      link: '',
-    },
-    {
-      name: 'Frank Howard Guest Admission Bursary',
-      body: '',
-      year: 'September 2024',
-      link: '',
-    },
-    {
-      name: 'Elexicon Energy Inc. Award',
-      body: '',
-      year: 'June 2024',
-      link: '',
+      name: 'Lorem ipsum',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'University of Toronto',
-      degree: 'BASc in Electrical Engineering + PEY Co-op',
-      from: '2024',
-      to: '2029',
+      institution: 'Institution Name',
+      degree: 'Degree',
+      from: '2015',
+      to: '2019',
     },
     {
-      institution: 'J Clarke Richardson Collegiate',
-      degree: 'Ontario Secondary School Diploma',
-      from: '2020',
-      to: '2024',
+      institution: 'Institution Name',
+      degree: 'Degree',
+      from: '2012',
+      to: '2014',
     },
   ],
-  publications: [],
+  publications: [
+    {
+      title: 'Publication Title',
+      conferenceName: '',
+      journalName: 'Journal Name',
+      authors: 'John Doe, Jane Smith',
+      link: 'https://example.com',
+      description:
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+    },
+    {
+      title: 'Publication Title',
+      conferenceName: 'Conference Name',
+      journalName: '',
+      authors: 'John Doe, Jane Smith',
+      link: 'https://example.com',
+      description:
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+    },
+  ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: '', // to hide blog section, keep it empty
+    username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
+  },
+  googleAnalytics: {
+    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
@@ -259,7 +219,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: ``,
+  footer: `Made with <a 
+      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      target="_blank"
+      rel="noreferrer"
+    >GitProfile</a> and ❤️`,
 
   enablePWA: true,
 };
