@@ -145,17 +145,17 @@ const CONFIG = {
       companyLink: 'https://www.utoronto.ca',
     },
     {
+      company: 'Youth In Politics',
+      position: 'Technical Editor',
+      from: 'June 2021',
+      to: 'June 2024',
+      companyLink: '',
+    },
+    {
       company: 'Durham District School Board',
       position: 'Peer Tutor',
       from: 'September 2022',
       to: 'July 2023',
-      companyLink: '',
-    },
-    {
-      company: 'Youth In Politics',
-      position: 'Technical Editor',
-      from: 'June 2021',
-      to: 'January 2023',
       companyLink: '',
     },
   ],
@@ -183,7 +183,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'University of Toronto',
-      degree: 'BASc in Electrical Engineering + PEY Co-op',
+      degree: 'Bachelor of Applied Science (B.A.Sc) in Electrical Engineering + PEY Co-op',
       from: '2024',
       to: '2029',
     },
