@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building',
           imageUrl:
-            'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_6.png',
+            'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_5.jpg',
           link: 'https://mayan-s.github.io/chestnut-residence-redesign/',
         },
         {
