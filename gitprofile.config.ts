@@ -49,22 +49,6 @@ const CONFIG = {
           link: 'https://github.com/Mayan-S/spotify-stats',
         },
         {
-          title: 'Document Scanner',
-          description:
-            'Uses OpenCV and Tesseract OCR to scan documents and extract text',
-          imageUrl:
-            'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_2.png',
-          link: 'https://github.com/Mayan-S/document-scanner',
-        },
-        {
-          title: 'Impossible Tic-Tac-Toe',
-          description:
-            'Choose between single-player and multi-player Tic-Tac-Toe',
-          imageUrl:
-            'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_4.png',
-          link: 'https://github.com/Mayan-S/impossible-tic-tac-toe',
-        },
-        {
           title: 'DE1-SoC Arcade Game',
           description:
             'Asteroid dodging game on FPGA with VGA display, keyboard controls, and collision detection',
@@ -80,12 +64,28 @@ const CONFIG = {
             'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_6.png',
           link: 'https://mayan-s.github.io/chestnut-residence-redesign/',
         },
+        {
+          title: 'Document Scanner',
+          description:
+            'Uses OpenCV and Tesseract OCR to scan documents and extract text',
+          imageUrl:
+            'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_2.png',
+          link: 'https://github.com/Mayan-S/document-scanner',
+        },
+        {
+          title: 'Impossible Tic-Tac-Toe',
+          description:
+            'Choose between single-player and multi-player Tic-Tac-Toe',
+          imageUrl:
+            'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_4.png',
+          link: 'https://github.com/Mayan-S/impossible-tic-tac-toe',
+        },
       ],
     },
   },
   seo: { 
     title: 'Portfolio of Mayan Saravanabavan', 
-    description: 'Electrical Engineering student at University of Toronto with experience in Python, C/C++, Verilog, and embedded systems', 
+    description: 'Electrical Engineering student at University of Toronto', 
     imageURL: '' 
   },
   social: {
@@ -111,7 +111,7 @@ const CONFIG = {
     email: 'mayan.saravanabavan@mail.utoronto.ca',
   },
   resume: {
-    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/Mayan_Saravanabavan_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
