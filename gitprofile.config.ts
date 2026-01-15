@@ -138,6 +138,13 @@ const CONFIG = {
       companyLink: 'https://canue.ca',
     },
     {
+      company: 'University of Toronto Amateur Radio Society',
+      position: 'Executive Member',
+      from: 'September 2024',
+      to: 'Present',
+      companyLink: 'https://sop.utoronto.ca/group/university-of-toronto-amateur-radio-society-utars/',
+    },
+    {
       company: 'University of Toronto',
       position: 'Alumni Events Assistant',
       from: 'May 2025',
@@ -149,13 +156,6 @@ const CONFIG = {
       position: 'Technical Editor',
       from: 'June 2021',
       to: 'June 2024',
-      companyLink: '',
-    },
-    {
-      company: 'Durham District School Board',
-      position: 'Peer Tutor',
-      from: 'September 2022',
-      to: 'July 2023',
       companyLink: '',
     },
   ],
