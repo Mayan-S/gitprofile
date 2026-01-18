@@ -51,7 +51,7 @@ const CONFIG = {
         {
           title: 'DE1-SoC Arcade Game',
           description:
-            'Asteroid dodging game on FPGA with VGA display, keyboard controls, and collision detection',
+            'Asteroid dodging and shooting game on FPGA with VGA display, PS/2 keyboard controls, and collision detection',
           imageUrl:
             'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_3.jpg',
           link: 'https://github.com/Mayan-S/DE1-SoC-Arcade-Game',
@@ -149,14 +149,14 @@ const CONFIG = {
       position: 'Alumni Events Assistant',
       from: 'May 2025',
       to: 'June 2025',
-      companyLink: 'https://www.utoronto.ca',
+      companyLink: 'https://alumni.utoronto.ca/',
     },
     {
       company: 'Youth In Politics',
       position: 'Technical Editor',
       from: 'June 2021',
       to: 'June 2024',
-      companyLink: '',
+      companyLink: 'https://www.linkedin.com/company/youth-in-politics/',
     },
   ],
   certifications: [
