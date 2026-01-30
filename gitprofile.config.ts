@@ -51,7 +51,7 @@ const CONFIG = {
         {
           title: 'DE1-SoC Arcade Game',
           description:
-            'Asteroid dodging and shooting game on FPGA with VGA display, PS/2 keyboard controls, and collision detection',
+            'Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection',
           imageUrl:
             'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_3.jpg',
           link: 'https://github.com/Mayan-S/DE1-SoC-Arcade-Game',
@@ -75,7 +75,7 @@ const CONFIG = {
         {
           title: 'Impossible Tic-Tac-Toe',
           description:
-            'Choose between single-player and multi-player Tic-Tac-Toe',
+            'Play single-player or multi-player Tic-Tac-Toe with an unbeatable AI opponent',
           imageUrl:
             'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_4.png',
           link: 'https://github.com/Mayan-S/impossible-tic-tac-toe',
@@ -143,6 +143,13 @@ const CONFIG = {
       from: 'September 2024',
       to: 'Present',
       companyLink: 'https://sop.utoronto.ca/group/university-of-toronto-amateur-radio-society-utars/',
+    },
+    {
+      company: 'UTWind',
+      position: 'Team Member',
+      from: 'September 2024',
+      to: 'Present',
+      companyLink: 'https://www.utwind.com/',
     },
     {
       company: 'University of Toronto',
