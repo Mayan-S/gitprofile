@@ -75,7 +75,7 @@ const CONFIG = {
         {
           title: 'Impossible Tic-Tac-Toe',
           description:
-            'Play single-player or multi-player Tic-Tac-Toe with an unbeatable AI opponent',
+            'Play single-player Tic-Tac-Toe against an unbeatable AI, or challenge a friend in multiplayer',
           imageUrl:
             'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_4.png',
           link: 'https://github.com/Mayan-S/impossible-tic-tac-toe',
