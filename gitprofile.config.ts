@@ -57,6 +57,14 @@ const CONFIG = {
           link: 'https://github.com/Mayan-S/DE1-SoC-Arcade-Game',
         },
         {
+          title: 'Power Amplifier and Filter for HF Radio Transceiver',
+          description:
+            'Amplifies and filters the transmit signal of a team-built radio for antenna broadcast',
+          imageUrl:
+            'https://raw.githubusercontent.com/Mayan-S/gitprofile/main/image_7.jpg',
+          link: 'https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver',
+        },
+        {
           title: 'Redesign Proposal for Chestnut Residence Building',
           description:
             'A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building',
