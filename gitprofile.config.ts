@@ -125,6 +125,7 @@ const CONFIG = {
     'Python',
     'C',
     'C++',
+    'JavaScript',
     'HTML',
     'CSS',
     'Verilog',
@@ -132,9 +133,14 @@ const CONFIG = {
     'Git',
     'Quartus Prime',
     'ModelSim',
-    'LTSpice',
+    'LTspice',
     'Altium Designer',
     'KiCAD',
+    'Oscilloscope', 
+    'Function Generator', 
+    'Digital Multimeter',
+    'Power Supply', 
+    'Soldering Iron',
   ],
   experiences: [
     // Work Experience
