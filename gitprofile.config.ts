@@ -145,6 +145,13 @@ const CONFIG = {
   experiences: [
     // Work Experience
     {
+      company: 'Longford International Ltd',
+      position: 'Electrical Engineering Intern',
+      from: 'May 2026',
+      to: 'August 2026',
+      companyLink: 'https://www.longfordint.com/',
+    },
+    {
       company: 'CANUE',
       position: 'Undergraduate Research Assistant',
       from: 'July 2025',
